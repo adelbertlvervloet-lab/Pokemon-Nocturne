@@ -25,7 +25,7 @@ and the musical and dramatic language of Castlevania: Nocturne.
 
 Website: [link]
 
-Visual gallery: [link]
+Visual gallery: [https://www.behance.net/adelbervervloe]
 
 ## Status
 
