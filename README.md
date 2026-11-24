@@ -25,7 +25,7 @@ and the musical and dramatic language of Castlevania: Nocturne.
 
 Website: [[link](https://pokmon-nocturne.super.site/)]
 
-Visual gallery: [[link](https://www.behance.net/adelbervervloe)]
+
 
 Episode PDF Archive:[[link](https://github.com/adelbertlvervloet-lab/Pokemon-Nocturne/tree/nocturne-apparatus)]
 
